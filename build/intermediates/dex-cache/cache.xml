@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_63843ba97ecb61b0754ca1afed53fb718f75c3c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-26.0.0-alpha1_39da48667192269158b83a93010e269a541aaa36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-26.0.0-alpha1_f3bdd1ffda74433f3d5cce7696ec5679e2ea2f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/tinker-commons/1.7.7/40b906cce937992429447caa2cd5c304bf90c46/tinker-commons-1.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="040b906cce937992429447caa2cd5c304bf90c46">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/tinker-commons-1.7.7_34b32fe932342136f259560ecccc4c29479a94ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/bsdiff-util/1.7.7/3a4ba17ae24a8eb4974f6d9694f9776ecf77cb2e/bsdiff-util-1.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3a4ba17ae24a8eb4974f6d9694f9776ecf77cb2e">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/bsdiff-util-1.7.7_20e85f3de2cf054139ffabde15f439478b97849b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-26.0.0-alpha1_14a05cba16985d1d5d21d39afe0d580b687627ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-26.0.0-alpha1_ca531b1187ad347e4db60d33c0b81d108f2fcb1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/aosp-dexutils/1.7.7/d4bd327144a0628548265989b540dda2d9285a66/aosp-dexutils-1.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4bd327144a0628548265989b540dda2d9285a66">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/aosp-dexutils-1.7.7_9583b9c7932673e0d059ff55938726796d6b4c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-26.0.0-alpha1_1957d2f8fc2b41ed268e7753f4d1adb10d352f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-26.0.0-alpha1_027b7cef345fd780a0ce0769f81f3afe2a94a571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-26.0.0-alpha1_6d259d389a881b5266fbea21d100216b40071e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.tencent.tinker/tinker-android-lib/1.7.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61a051346c42c17e5d7e07fc7c7c8245648038b9">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.tencent.tinker-tinker-android-lib-1.7.7_8ac4391a85ab3316130e7249c9557c9fbcbd5d90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-26.0.0-alpha1_a7ebc8652f91703f974523207cf1aff6ac53f462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.tencent.tinker/tinker-android-loader/1.7.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="582c2fcf322d3f9fd95b5a11ae99d71667697637">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.tencent.tinker-tinker-android-loader-1.7.7_ba45f82b4068da6407c49c577cabed0e0d15f357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/qiyue/Desktop/TinkerDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-26.0.0-alpha1_862be2b39b6381e439445cc01857eb8188081ee1.jar" />
+    </item>
+
+</items>
